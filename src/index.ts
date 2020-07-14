@@ -1,2 +1,2 @@
-const txt: string = 'Daniel Silva';
+const txt: string = "Daniel Francisco da Silva";
 console.log(txt);
