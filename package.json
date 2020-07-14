@@ -1,0 +1,12 @@
+{
+  "name": "typescript_couse",
+  "version": "1.0.0",
+  "description": "Curso de Typescript",
+  "main": "index.js",
+  "repository": "https://github.com/daniel-silva-dxp/couse-typescript.git",
+  "author": "Daniel Silva <danielsilvadxp@gmail.com> (https://danielsilva-front.netlify.app/)",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
+}
